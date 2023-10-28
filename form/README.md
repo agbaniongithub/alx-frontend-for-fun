@@ -1,0 +1,2 @@
+FORMS.
+Learning about the importance of forms. How to create usable forms. The ISO 9241 standard defines website usability as the “effectiveness, efficiency and satisfaction with which specified users achieve specified goals in particular environments. In this case we learn how our forms can be as effective and efficient.
