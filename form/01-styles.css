@@ -645,9 +645,10 @@
   .tag-list li:last-child::after {
     content: "";
   }
-
-  /* FORM */
-  /* comment section */
+  
+/*** FORM ***/
+/* Comment section
+    ============================= */
   .post-comments {
     width: 80%;
     margin: 10rem 0 0 auto;
